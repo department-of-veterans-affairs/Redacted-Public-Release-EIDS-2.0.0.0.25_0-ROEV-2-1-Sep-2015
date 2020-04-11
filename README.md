@@ -1,2 +1,6 @@
 # Redacted-Public-Release-EIDS-2.0.0.0.25_0-ROEV-2-1-Sep-2015
 Repository containing the CIF submission for Eye Injury Data Store 2.0.0.0.25_0; ROEV *2*1 rec Sep 2015.
+This project is an effort to enhance the existing VA Eye Injury Registry to ensure the harmonization of VA and DoD ocular and related clinical data and provide the system changes that will improve data entry by data abstractors. Ultimately, the VA and DoD eye injury registries will be used to coordinate care, track longitudinal outcomes, facilitate R&D, adapt best practices and clinical education on eye injuries incurred by service members.  
+
+
+Supports the VA EIR Cross Functional Workgroup enhancement recommendations to provide a foundation for the harmonization of VA and DoD ocular and related clinical data, and provide the system changes that will enhance data entry by the data abstractors. These system improvements ensure that, the same data format is shared between the DoD and VA systems; support is provided for eligibility determinations and relevance of data; number and types of VA data fields and elements are expanded (e.g. pharmacy data) to support harmonization; transmission of data is automated on a regular schedule; and accuracy in reporting is enhanced to support key statistical results.  
